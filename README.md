@@ -1,6 +1,8 @@
 # Tarefa de Aplicativos Web  
 
-Para executar:  
+* Pedro Vitor Santos de Oliveira *
+
+** Para executar: **  
 git clone git@github.com:gdplentie/portal-cursos.git  
 cd portal-cursos  
 npm install  
