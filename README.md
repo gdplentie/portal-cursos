@@ -1,7 +1,7 @@
 # Tarefa de Aplicativos Web
 
 Para executar:
-git clone
+git clone git@github.com:gdplentie/portal-cursos.git
 cd portal-cursos
 npm install
 npm run dev
